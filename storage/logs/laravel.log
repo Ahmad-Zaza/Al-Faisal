@@ -1,0 +1,171 @@
+[2022-08-29 09:03:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:03:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:04:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:04:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:04:54] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:05:25] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:05:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:05:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:06:06] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:06:11] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:06:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:06:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:07:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:07:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:07:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:08:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:08:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:09:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-08-29 09:09:42] production.ERROR: Call to undefined method Closure::__set_state() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Closure::__set_state() at C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\bootstrap\\cache\\config.php:529)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(28): require()
+#1 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(213): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\Faisal new\\al-faisal-website\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
